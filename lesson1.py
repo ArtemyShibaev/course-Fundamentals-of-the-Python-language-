@@ -71,23 +71,3 @@ while a <= b:
     if a == b:
         break
 print('You will achieve results оn the {}th day: {}'.format(days, a))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
