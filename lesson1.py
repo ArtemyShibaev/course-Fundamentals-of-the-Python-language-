@@ -36,6 +36,7 @@ while user_number > 10:
     user_number //= 10
     if last > max:
         max = last
+    break
 print('The largest digit in your number is', max)
 
 print('*' * 80)
