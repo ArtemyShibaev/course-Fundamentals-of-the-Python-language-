@@ -1,0 +1,10 @@
+First 21000
+Second 19000
+Third 23000
+Fourth 19990
+Fives 22000
+Sixth 16000
+Seventh 25000
+Eight 20000
+Ninth 10000
+Tenth 28000
